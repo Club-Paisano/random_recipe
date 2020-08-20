@@ -1,0 +1,21 @@
+body{
+    background-image: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1953&q=80');
+    display: flex;
+    flex-flow: column;
+}
+
+.mainFoto{
+    text-align: center;
+    justify-items: center;
+    align-self: center;
+    width: 50vw;
+    height: 50vh
+}
+img{
+    border: 50px solid black;
+    border-radius: 10%;
+}
+
+h1 {
+    text-align: center;
+}
